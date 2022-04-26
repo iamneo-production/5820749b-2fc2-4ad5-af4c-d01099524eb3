@@ -1,0 +1,16 @@
+.App {
+    height: 150vh;
+    display: flexbox;
+    color: rgb(128, 67, 67);
+    text-align: center;
+    background-color: burlywood;
+  }
+  .formCenter {
+    margin-bottom: 300px;
+  }
+  
+  .formTitle {
+    
+    font-weight: 300;
+    margin-bottom: 50px;
+  }
